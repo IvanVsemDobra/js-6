@@ -1,11 +1,11 @@
 {
-  "name": "notes_books_v2",
+  "name": "js-6",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/notes_books_v2/",
+    "build": "vite build --base=/js-6/",
     "preview": "vite preview"
   },
   "devDependencies": {
